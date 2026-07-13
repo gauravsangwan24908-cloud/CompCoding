@@ -1,0 +1,48 @@
+// CONTAINS DUPLICATE 2 (Problem 219)
+
+class Solution {
+public:
+    bool containsNearbyDuplicate(vector<int>& nums, int k) {
+        unordered_map<int, int> mp;
+
+        for(int i=0; i< nums.size(); i++){
+            if(mp.find(nums[i]) != mp.end()){
+                if(i -mp[nums[i]] <= k)
+            return true;
+            }
+        
+        mp[nums[i]] = i;
+    }
+    
+    return false;
+}
+
+};
+
+
+
+
+// PRODUCT OF ARRAY EXCEPT SELF (Problem 238)
+
+class Solution {
+public:
+    vector<int> productExceptSelf(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> answer(n);
+        
+        //Left products
+        answer[0] = 1;
+        for(int i=1; i<n; i++){
+            answer[i] =answer[i-1]* nums[i-1];
+        }
+
+        //Right products
+        int rightProduct = 1;
+        for (int i = n-1; i>=0; i--){
+            answer[i]*= rightProduct;
+            rightProduct*= nums[i];
+        }
+        return answer;
+
+    }
+};
