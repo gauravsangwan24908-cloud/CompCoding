@@ -1,0 +1,126 @@
+// SEARCH INSERT POSITION (Problem 35)
+
+class Solution {
+public:
+    int searchInsert(vector<int>& nums, int target) {
+        int n= nums.size();
+        int low= 0;
+        int high = n-1;
+        while (low <= high){
+            int mid= low + (high - low )/2;
+            if(target == nums[mid]){
+                return mid;
+            }
+            else if (target> nums[mid]){
+                low = mid+ 1  ;
+            }
+            else {
+                high = mid- 1;
+
+            }
+        }
+        return low;
+    }
+};
+
+
+
+
+// ROTATED ARRAY (Problem 33)
+
+class Solution {
+public:
+    int search(vector<int>& nums, int target) {
+        
+        int low =0 ;
+        int high = nums.size() -1;
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (nums[mid] == target)
+            return mid;
+
+            // Left half is sorted 
+            if (nums[low] <= nums[mid]) {
+                if (target >= nums[low] && target < nums[mid]){
+                    high = mid-1;
+                }
+                else {
+                    low= mid + 1;
+                }
+            }
+            // Right half is sorted 
+            else {
+                if(target > nums[mid] && target <= nums[high]) {
+                    low = mid + 1;
+                }
+                else { 
+                    high = mid -1 ;
+                }
+            }
+
+        }
+        return -1;
+    }
+};
+
+
+
+
+// FIRST AND LAST POSITION OF ELEMENT IN SORTED ARRAY 
+
+
+class Solution {
+public:
+    int firstPosition(vector<int>& nums, int target) {
+        int low = 0, high = nums.size() - 1;
+        int ans = -1;
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (nums[mid] == target) {
+                ans = mid;
+                high = mid - 1;   // Search left part
+            }
+            else if (nums[mid] < target) {
+                low = mid + 1;
+            }
+            else {
+                high = mid - 1;
+            }
+        }
+
+        return ans;
+    }
+
+    int lastPosition(vector<int>& nums, int target) {
+        int low = 0, high = nums.size() - 1;
+        int ans = -1;
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (nums[mid] == target) {
+                ans = mid;
+                low = mid + 1;    // Search right part
+            }
+            else if (nums[mid] < target) {
+                low = mid + 1;
+            }
+            else {
+                high = mid - 1;
+            }
+        }
+
+        return ans;
+    }
+
+    vector<int> searchRange(vector<int>& nums, int target) {
+        int first = firstPosition(nums, target);
+        int last = lastPosition(nums, target);
+
+        return {first, last};
+    }
+};
