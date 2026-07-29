@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0011-container-with-most-water) |
+| [0040-combination-sum-ii](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0084-largest-rectangle-in-histogram) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -70,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
