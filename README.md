@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0084-largest-rectangle-in-histogram) |
+| [0169-majority-element](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0169-majority-element) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Binary Search
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,4 +125,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0662-maximum-width-of-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
