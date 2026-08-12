@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0662-maximum-width-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0662-maximum-width-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
