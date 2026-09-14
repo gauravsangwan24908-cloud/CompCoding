@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0040-combination-sum-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0169-majority-element) |
 ## Sorting
 |  |
