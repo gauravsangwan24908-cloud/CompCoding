@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -143,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/gauravsangwan24908-cloud/CompCoding/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
